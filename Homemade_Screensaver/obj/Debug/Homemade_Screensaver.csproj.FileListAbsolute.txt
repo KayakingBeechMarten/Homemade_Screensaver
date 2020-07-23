@@ -1,0 +1,10 @@
+D:\Coding!\C#\Homemade_Screensaver\bin\Debug\Homemade_Screensaver.exe.config
+D:\Coding!\C#\Homemade_Screensaver\bin\Debug\Homemade_Screensaver.exe
+D:\Coding!\C#\Homemade_Screensaver\bin\Debug\Homemade_Screensaver.pdb
+D:\Coding!\C#\Homemade_Screensaver\obj\Debug\Homemade_Screensaver.csprojAssemblyReference.cache
+D:\Coding!\C#\Homemade_Screensaver\obj\Debug\Homemade_Screensaver.screensaver.resources
+D:\Coding!\C#\Homemade_Screensaver\obj\Debug\Homemade_Screensaver.Properties.Resources.resources
+D:\Coding!\C#\Homemade_Screensaver\obj\Debug\Homemade_Screensaver.csproj.GenerateResource.cache
+D:\Coding!\C#\Homemade_Screensaver\obj\Debug\Homemade_Screensaver.csproj.CoreCompileInputs.cache
+D:\Coding!\C#\Homemade_Screensaver\obj\Debug\Homemade_Screensaver.exe
+D:\Coding!\C#\Homemade_Screensaver\obj\Debug\Homemade_Screensaver.pdb
